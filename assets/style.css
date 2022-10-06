@@ -1,19 +1,5 @@
-/* TABLE OF CONTENTS */
-/* ------------------
-1. General
-2. Navbar
-3. Banner
-4. About
-5. Menu
-6. Offers
-7. Review
-8. Footer
--------------------- */
-
 /* 1 General */
-@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@200;300&display=swap');
 
 * {
     box-sizing: border-box;
@@ -89,7 +75,7 @@ section {
 }
 
 h1 {
-    font-size: 80px;
+    font-size: 30px;
     line-height: 1.2;
     font-weight: 400;
     color: var(--text-black);
