@@ -1,0 +1,24 @@
+.footer_wrapper {
+    background-color: var(--bg-white);
+    padding: 700px 0;
+}
+
+.container {
+    position: relative;
+    font-family: Arial;
+}
+
+.text-block {
+    position: absolute;
+    top: 20px;
+    text-align: center;
+    color: red;
+    padding-left: 400px;
+    padding-right: 20px;
+    font-size: 2.5rem;
+}
+
+h4 {
+    font-size: 5rem;
+
+}
